@@ -1,2 +1,5 @@
-doot doot doot
-one two three o'clock rock
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
